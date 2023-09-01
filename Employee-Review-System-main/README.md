@@ -1,7 +1,7 @@
 # Employee-Review-System
-This Employee review web application is created for employees to submit feedback toward each other's performance. User's could have either "employee" or "admin" role. There are two dashboard pages based on the role of the employee those dashboard pages will be rendered, User with role of admin can assign employees to participate in review of other employees. Employees can only submit feedback required by assigned reviews.
-### Hosted link: https://employee-review-system-6v1t.onrender.com
-### Video link: https://youtu.be/FZftPkwqUrw
+This Employee review web application is created for employees to submit feedback on each other's performance. Users could have either an "employee" or an "admin" role. There are two dashboard pages based on the role of the employee those dashboard pages will be rendered, Users with the role of admin can assign employees to participate in the review of other employees. Employees can only submit feedback required by assigned reviews.
+### Hosted link:
+
 
 ## Inside this project
 ### From Admin's panel
@@ -15,10 +15,10 @@ This Employee review web application is created for employees to submit feedback
 - Submit reviews assigned to it
 - View reviews given by others
 
-## How to setup the project on local system
+## How to set the project on the local system
 - Clone this project from https://github.com/kunaldeep799/Employee-Review-System.git
 - Start by installing npm if you don't have it already.
-- Navigate to Project Directory and run the following the command.
+- Navigate to Project Directory and run the following command.
 ```bash
 npm install
 ```
@@ -26,7 +26,7 @@ npm install
 ```bash
 npm start or nodemon index.js
 ```
-- visit in your local browser- http://localhost:5000/
+- Visit in your local browser- http://localhost:5000/
  
 ## Tech Stack
 - NodeJS
